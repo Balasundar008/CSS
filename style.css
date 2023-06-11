@@ -1,0 +1,51 @@
+body{}
+h1{
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: red;
+
+}
+
+    .x{
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        font-size: 22px;
+        border-radius: 25px;
+        width: 100%;
+        color: blue;
+
+
+
+    }
+    .input[type="text"]{
+        width:80%;
+        border-radius: 25px;
+
+    }
+    .y{
+        word-spacing: 10;
+        font-family: 'Times New Roman', Times, serif;
+        color: blue;
+
+
+    }
+    y:hover{
+        color: green;
+        }
+    y:active{
+        color: yellow;
+    }
+    y:visited{
+        color: red;
+
+    }
+    h3{
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        font-size: 22px;
+    }
+    .a{
+        font-family: 'Times New Roman', Times, serif;
+        color: blue;
+    }
